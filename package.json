@@ -1,0 +1,24 @@
+{
+  "name": "letviewer",
+  "version": "0.0.1",
+  "description": "Allow viewers of a twitch channel to control the current song that the streamer is playing.Will be more of an API that creates a local queuing system.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WrightKD/let-viewer.git"
+  },
+  "keywords": [
+    "Twitch",
+    "Bot",
+    "Spotify"
+  ],
+  "author": "Kenneth",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WrightKD/let-viewer/issues"
+  },
+  "homepage": "https://github.com/WrightKD/let-viewer#readme"
+}
